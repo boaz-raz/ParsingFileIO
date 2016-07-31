@@ -38,11 +38,14 @@ int main () {
                 cout << " this is b: " << b << endl;
                 cout << " this is c: " << c << endl;
                 cout << " sum: " << sum << endl;
+                outFile << endl << endl << "Sum of: " << word << ": is "<< sum;
+                outFile << endl;
                 for (int i = 0; i < sum ; ++i) {
                     cout << word << ",";
                     outFile << word  << ",";
 
                 }
+
 
             }
 

@@ -1,1 +1,19 @@
-Hi,Hi,Hi,Hi,Hi,Hi,And,And,And,And,And,And,And,And,And,And,And,And,And,And,And,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Wold,Wold,Wold,Wold,Wold,Wold,CSCI2401,CSCI2401,CSCI2401,CSCI2401,CSCI2401,CSCI2401,CSCI2401,CSCI2401,
+
+
+Sum of: Hi: is 6
+Hi,Hi,Hi,Hi,Hi,Hi,
+
+Sum of: And: is 15
+And,And,And,And,And,And,And,And,And,And,And,And,And,And,And,
+
+Sum of: Hello: is 24
+Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,Hello,
+
+Sum of: Wold: is 6
+Wold,Wold,Wold,Wold,Wold,Wold,
+
+Sum of: CSCI2401: is 3
+CSCI2401,CSCI2401,CSCI2401,
+
+Sum of: CSCI2401: is 5
+CSCI2401,CSCI2401,CSCI2401,CSCI2401,CSCI2401,
